@@ -1,0 +1,6 @@
+install all the required modules before running the app
+langchain
+langchain-community
+langchain-core
+streamlit
+python-dotenv
